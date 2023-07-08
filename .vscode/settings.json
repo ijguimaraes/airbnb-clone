@@ -1,0 +1,11 @@
+{
+    "emmet.includeLanguages": {
+        "TypeScript JSX": "typescriptreact",
+        "TypeScript": "typescript",
+        "JavaScript JSX": "javascriptreact"
+    },
+    "emmet.preferences": {
+
+    },
+    "editor.tabSize": 2
+}
